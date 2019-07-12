@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/sg_weather/static/css/main.4662583f.chunk.css",
+    "main.js": "/sg_weather/static/js/main.3a94facb.chunk.js",
+    "main.js.map": "/sg_weather/static/js/main.3a94facb.chunk.js.map",
+    "runtime~main.js": "/sg_weather/static/js/runtime~main.d0718a26.js",
+    "runtime~main.js.map": "/sg_weather/static/js/runtime~main.d0718a26.js.map",
+    "static/js/2.bcf4d46b.chunk.js": "/sg_weather/static/js/2.bcf4d46b.chunk.js",
+    "static/js/2.bcf4d46b.chunk.js.map": "/sg_weather/static/js/2.bcf4d46b.chunk.js.map",
+    "index.html": "/sg_weather/index.html",
+    "precache-manifest.338fab3dac29b0acd7ae76108880c35b.js": "/sg_weather/precache-manifest.338fab3dac29b0acd7ae76108880c35b.js",
+    "service-worker.js": "/sg_weather/service-worker.js",
+    "static/css/main.4662583f.chunk.css.map": "/sg_weather/static/css/main.4662583f.chunk.css.map",
+    "static/media/cloudy.svg": "/sg_weather/static/media/cloudy.fbe9bd28.svg",
+    "static/media/rainy.svg": "/sg_weather/static/media/rainy.3ac83e27.svg",
+    "static/media/sunny.svg": "/sg_weather/static/media/sunny.029cf241.svg",
+    "static/media/windy.svg": "/sg_weather/static/media/windy.6ba4f4f8.svg"
+  }
+}
