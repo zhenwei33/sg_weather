@@ -1,0 +1,10 @@
+.map {
+    position: absolute;
+    left: 20%;
+}
+
+.hidden {
+    background: none;
+    border: none;
+    cursor: pointer;
+}

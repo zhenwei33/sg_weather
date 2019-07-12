@@ -1,0 +1,14 @@
+.test {
+    height: 680px;
+    width: 75%;
+    background-image: linear-gradient(to top, #9890e3 0%, #b1f4cf 100%);
+    
+    
+    top: 20%;
+    overflow-y: scroll;
+    border-radius: 30px;
+    border: 1px solid grey;
+    padding: 20px 25px;
+    margin: 100px auto;
+    color: rgba(0, 0, 0, .6)
+}

@@ -1,0 +1,65 @@
+{
+    "items":[{
+        "update_timestamp":"2019-07-10T06:02:11+08:00",
+        "timestamp":"2019-07-10T05:21:00+08:00",
+        "forecasts":[{
+            "temperature":{
+                "low":25,
+                "high":34},
+            "date":"2019-07-11",
+            "forecast":"Fair and warm",
+            "relative_humidity":{
+                "low":55,
+                "high":90},
+            "wind":{
+                "speed":{
+                    "low":15,
+                    "high":25},
+                "direction":"SE"},
+            "timestamp":"2019-07-11T00:00:00+08:00"},
+        {   "temperature":{
+                "low":25,
+                "high":34},
+            "date":"2019-07-12",
+            "forecast":"Fair and warm",
+            "relative_humidity":{
+                "low":55,
+                "high":90},
+            "wind":{
+                "speed":{
+                    "low":15,
+                    "high":20},
+                "direction":"SE"},
+            "timestamp":"2019-07-12T00:00:00+08:00"},
+        {   "temperature":{
+                "low":25,
+                "high":33},
+            "date":"2019-07-13",
+            "forecast":"Afternoon showers",
+            "relative_humidity":{
+                "low":60,
+                "high":95},
+            "wind":{
+                "speed":{
+                    "low":15,
+                    "high":20},
+                "direction":"SSE"},
+            "timestamp":"2019-07-13T00:00:00+08:00"},
+        {   "temperature":{
+                "low":25,
+                "high":33},
+            "date":"2019-07-14",
+            "forecast":"Late morning and early afternoon thundery showers",
+            "relative_humidity":{
+                "low":60,
+                "high":95},
+            "wind":{
+                "speed":{
+                    "low":15,
+                    "high":20},
+                "direction":"SSE"},
+            "timestamp":"2019-07-14T00:00:00+08:00"}
+        ]
+    }],
+    "api_info":{"status":"healthy"}
+}
